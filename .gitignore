@@ -1,0 +1,6 @@
+# Credit : 乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐
+node_modules/
+.env
+data/*
+!data/.gitkeep
+*.log

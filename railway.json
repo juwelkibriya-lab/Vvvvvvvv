@@ -1,0 +1,9 @@
+{
+  "credits": "乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐",
+  "version": "5.5.0",
+  "$schema": "https://railway.com/railway.schema.json",
+  "deploy": {
+    "startCommand": "npm start",
+    "restartPolicyType": "ALWAYS"
+  }
+}
